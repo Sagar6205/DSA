@@ -3,7 +3,7 @@
 #include<iostream>
 #include<array>
 using namespace std;
-// GitHub
+// GitHub Test
 int main(){
 
     int a[5]= {2,4,35,1,17};
