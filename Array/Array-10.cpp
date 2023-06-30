@@ -26,8 +26,8 @@ int main() {
     nums.push_back(1);
     nums.push_back(2);
     Solution solution;
-    int newSize = solution.removeDuplicates(nums);
-    cout << newSize << endl;
+    int size = solution.removeDuplicates(nums);
+    cout << size << endl;
     
     return 0;
 }
