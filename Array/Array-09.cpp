@@ -1,5 +1,4 @@
-// 27. Remove Element (LeetCode)
-
+// 27. Remove Element from an array (LeetCode)
 #include <iostream>
 #include <vector>
 using namespace std;
