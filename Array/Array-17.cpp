@@ -1,4 +1,8 @@
-// 35. Search Insert Position
+// 35. Search Insert Position (LeetCode)
+#include<iostream>
+#include<vector>
+using namespace std;
+
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
